@@ -1,6 +1,11 @@
 grunt-groc
 ================
 
+### Forked Version
+Find the original version [here](https://github.com/jdcataldo/grunt-groc). This was forked to add a depdendency on the [gilt version of groc](https://github.com/gilt/groc) which adds jsdoc style tags.
+
+### Description
+
 A simple grunt task to generate a project's documentation using [Groc](http://nevir.github.com/groc/)
 
 Groc depends on [Pygments](http://pygments.org/) to generate documentation. Follow the installation instructions [here](http://pygments.org/docs/installation/).
